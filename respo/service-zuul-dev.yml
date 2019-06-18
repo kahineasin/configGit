@@ -8,5 +8,5 @@ zuul:
       path: /api-b/**
       serviceId: service-feign
     api-c:
-      path: /api-c/**
+      path: /crm/**
       serviceId: service-crm
