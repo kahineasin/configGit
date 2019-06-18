@@ -10,3 +10,4 @@ zuul:
     api-c:
       path: /crm/**
       serviceId: service-crm
+      strip-prefix: false
