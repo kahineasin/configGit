@@ -11,4 +11,8 @@ zuul:
     api-c:
       path: /crm/**
       serviceId: service-crm
+      strip-prefix: false    
+    api-d:
+      path: /seller/**
+      serviceId: perfect-query
       strip-prefix: false
