@@ -16,3 +16,6 @@ zuul:
       path: /seller/**
       serviceId: perfect-query
       strip-prefix: false
+    api-e:
+      path: /api-hi/**
+      serviceId: service-hi
